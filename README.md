@@ -2,9 +2,8 @@
   <img src="home.GIF">
   <br><br />
   <samp>
-    😆 Hey! Welcome to Usagiu profile
+    Hey! Welcome to Usagiu profile
     <br />
-    <br />🍉 Take a look at my stats  🌱
     <br />
     <br />
   </samp>
