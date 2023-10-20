@@ -2,9 +2,9 @@
   <img src="home.GIF" width="100px">
   <br><br />
   <samp>
-    👋Hey! Welcome to Usagiu profile
+    OMG He's too rookie
     <br />
-    <br />I'm NotKiwi🥝
+    <br />Nooooooooo..
     <br />
     <br />
   </samp>
