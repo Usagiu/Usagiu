@@ -2,7 +2,7 @@
   <img src="home.GIF" width="100px">
   <br><br />
   <samp>
-    OMG He's too rookie
+    OMG He's rookie
     <br />
     <br />Nooooooooo..
     <br />
