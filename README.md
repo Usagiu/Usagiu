@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="home.GIF" width="100px">
   <br><br />
   <samp>
-    OMG He's rookie
+    It's work
     <br />
-    <br />Nooooooooo..
+    <br />but why?
     <br />
     <br />
   </samp>
